@@ -2,15 +2,15 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Documentation Starter Kit",
   "logo": {
-    "dark": "/logo/dark-large.svg",
-    "light": "/logo/light-large.svg"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#ECAE41",
-    "light": "#FFD387",
-    "dark": "#C29443",
-    "anchors": { "from": "#FFCA6C", "to": "#BF8724" }
+    "primary": "#01B1BC",
+    "light": "#01D8A3",
+    "dark": "#016EE5",
+    "anchors": { "from": "#01D8A3", "to": "#016EE5" }
   },
   "topbarLinks": [
     {
