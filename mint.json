@@ -7,19 +7,20 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
-    "light": "#4D9CFF",
-    "dark": "#0050B4"
+    "primary": "#ECAE41",
+    "light": "#FFD387",
+    "dark": "#C29443",
+    "anchors": { "from": "#ECAE41", "to": "#C29443" }
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Learn More",
+      "url": "https://findly.ai/"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "name": "Join the Waitlist",
+    "url": "https://waitlist.findly.ai/"
   },
   "anchors": [
     {
@@ -28,14 +29,14 @@
       "url": "api-reference"
     },
     {
-      "name": "Changelog",
-      "icon": "list",
-      "url": "https://mintlify.com"
+      "name": "Learn More",
+      "icon": "magnifying-glass",
+      "url": "https://findly.ai/"
     },
     {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "name": "Contact Us",
+      "icon": "envelope",
+      "url": "mailto:hello@findly.ai"
     }
   ],
   "navigation": [
