@@ -7,15 +7,15 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#01B1BC",
-    "light": "#01D8A3",
-    "dark": "#016EE5",
+    "primary": "#0072E1",
+    "light": "#95FFB9",
+    "dark": "#293542",
     "anchors": { "from": "#01D8A3", "to": "#016EE5" }
   },
   "topbarLinks": [
     {
-      "name": "Learn More",
-      "url": "https://findly.ai/"
+      "name": "Features",
+      "url": "https://www.findly.ai/#features"
     }
   ],
   "topbarCtaButton": {
